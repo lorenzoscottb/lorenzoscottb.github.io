@@ -1,0 +1,12 @@
+---
+title: "An epidemiological knowledge graph extracted from the World Health Organization’s Disease Outbreak News"
+collection: publications
+category: manuscript
+permalink: scidata-biokg
+date: 2025-06-10
+venue: 'Scientific Data'
+paperurl: 'https://www.nature.com/articles/s41597-025-05276-2'
+citation: 'Consoli, S., Coletti, P., Markov, P.V. et al. An epidemiological knowledge graph extracted from the World Health Organization’s Disease Outbreak News. Sci Data 12, 970 (2025). https://doi.org/10.1038/s41597-025-05276-2'
+---
+
+The rapid evolution of artificial intelligence (AI), together with the increased availability of social media and news for epidemiological surveillance, is marking a pivotal moment in epidemiology and public health research. By harnessing the capabilities of generative AI, we use an ensemble approach which incorporates multiple Large Language Models (LLMs) to extract useful epidemiological information for analysis from the World Health Organization (WHO) Disease Outbreak News (DONs). DONs is a collection of regular reports on global outbreaks curated by the WHO with the adopted decision-making processes to respond to them. The extracted information is made available in a knowledge graph, referred to as eKG, derived to provide a nuanced representation of the public health domain knowledge. We provide an overview of this new dataset and describe the structure of eKG, along with the services and tools used to access and utilize the data that we are building on top. These innovative data resources open altogether new opportunities for epidemiological research, and the analysis and surveillance of disease outbreaks.
