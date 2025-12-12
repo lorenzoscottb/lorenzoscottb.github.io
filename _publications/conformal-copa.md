@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: conformal-copa
 excerpt: ''
-date: 2024-02-17
+date: 2025-06-06
 venue: 'Proceedings of the Fourteenth Symposium on Conformal and Probabilistic Prediction with Applications'
 paperurl: 'https://proceedings.mlr.press/v266/hulsman25a.html'
 citation: 'Roel Hulsman, Valentin Comte, Lorenzo Bertolini, Tobias Wiesenthal, Antonio Puertas Gallardo, Mario Ceresa Proceedings of the Fourteenth Symposium on Conformal and Probabilistic Prediction with Applications, PMLR 266:445-463, 2025.'
