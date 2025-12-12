@@ -8,7 +8,7 @@ date: 2023-10-06
 location: "Rio, Brazil"
 ---
 
-[DReAMy: a library for the automatic analysis and annotation of dream reports with multilingual large language models](https://www.sciencedirect.com/science/article/abs/pii/S1389945723015186?via%3Dihub)
+[Abstract](https://www.sciencedirect.com/science/article/abs/pii/S1389945723015186?via%3Dihub)
 
 Dream researchers have long faced the challenge of automatically annotating large sets of textual
 reports describing oneiric experiences in a consistent manner. While algorithms leveraging machine
