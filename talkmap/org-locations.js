@@ -5,6 +5,11 @@ var addressPoints = [
     -43.2093727
   ],
   [
+    "Transformers & Hugging Faces: Theory and Applications of NLP\u2019s Most Notorious Architecture<br />Sussex Data Science Meet Up; Online",
+    43.5904719,
+    3.8595132
+  ],
+  [
     "Field of dreams: applying NLP to automatise dream content analysis<br />CBS Research Seminar; The Hong Kong Polytechnic University",
     22.3044867,
     114.1796935
