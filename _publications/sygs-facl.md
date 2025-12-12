@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: sygs-facl
 excerpt: ''
-date: 2021
+date: 2021-08-03
 venue: 'Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021'
 paperurl: 'https://aclanthology.org/2021.findings-acl.296/'
 citation: 'Lorenzo Bertolini, Julie Weeds, David Weir, and Qiwei Peng. 2021. Representing Syntax and Composition with Geometric Transformations. In Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, pages 3343–3353, Online. Association for Computational Linguistics.'
