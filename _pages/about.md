@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a research fellow (scientific project officer) at the European Commission Joint Research Centre (JRC). My research focuses on explainability and multimodality of AI models for healthcare. Before joining the JRC, I was a postdoc in the Artificial Intelligence Research Group of the University of Sussex, where I also obtained a PhD in Informatics, with a thesis on how LLMs and other machine learning models learn to handle linguistic abilities such as compositionality, generalisation, and inference.
+I am a research fellow (scientific project officer) at the European Commission Joint Research Centre (JRC). My research focuses on explainability and multimodality of AI models for healthcare. In particular, I am interested in how graph-based representations and data from the biological domain can be integrated within LLMs, and using explainability and mechanistic interpretability to explain vision-language biomedical models' behaviour, and limit implicit biases influencing the decision process.
 
+Before joining the JRC, I was a postdoc in the Artificial Intelligence Research Group of the University of Sussex, where I also obtained a PhD in Informatics, with a thesis on how LLMs and other machine learning models learn to handle linguistic abilities such as compositionality, generalisation, and inference.
+
+Occasionally, I work on a problem related to dream analysis, such as adopting LLMs to annotate and analyse dream content for research purposes.
 
 News
 ======
