@@ -1,7 +1,7 @@
 ---
 title: "Generative AI Outlook Report"
 collection: publications
-category: European Commission Technical Reports
+category: reports
 permalink: genai-jrc
 excerpt: ''
 date: 2025-06-13
