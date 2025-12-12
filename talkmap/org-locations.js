@@ -1,22 +1,12 @@
 var addressPoints = [
   [
+    "DReAMy: a library for the automatic analysis and annotation of dream reports with multilingual large language models<br />World Sleep Congress; Rio, Brazil",
+    -22.9110137,
+    -43.2093727
+  ],
+  [
     "Field of dreams: applying NLP to automatise dream content analysis<br />CBS Research Seminar; The Hong Kong Polytechnic University",
     22.3044867,
     114.1796935
-  ],
-  [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
   ]
 ];
