@@ -1,0 +1,12 @@
+---
+title: "Explainable AI in Cardiovascular Health"
+collection: publications
+category: reports
+permalink: genai-jrc
+excerpt: ''
+date: 2025-09-19
+paperurl: 'https://publications.jrc.ec.europa.eu/repository/handle/JRC143595'
+citation; '	BERTOLINI, L., COMTE, V., RUIZ SERRA, V., GIERSCHMANN, L., ORFEI, L. et al., Explainable AI in Cardiovascular Health - Methods, Applications, and Innovations, Publications Office of the European Union, Luxembourg, 2025, https://data.europa.eu/doi/10.2760/4891725, JRC143595.'
+---
+
+Artificial intelligence (AI) holds tremendous potential to revolutionise healthcare by enhancing and supporting medical decision-making, enabling early diagnosis, and accelerating drug discovery processes. While its effectiveness has been repeatedly demonstrated across various medical applications, it is essential for both patients and healthcare practitioners that humans can understand how decisions are made by AI systems, thereby increasing transparency, building trust, and ensuring clinical accountability.This comprehensive report provides an overview of the main methodological tools developed in the literature for AI interpretability and explainability (XAI), examining how these techniques function, what insights they offer into the internal mechanisms of AI systems, and how they establish clear relationships between inputs and outputs in medical contexts. Moreover, the report proposes an in-depth analysis of how these interpretability tools have been adopted in healthcare applications and, more specifically, in cardiovascular disease (CVD) research, exploring their primary findings, the most significant research gaps, and potential future directions for the field.Our findings demonstrate how the research community focusing on XAI for cardiovascular disease has made a consistent and effective use of a relatively limited set of established models and analytical tools, such as convolutional neural networks (CNN) and Shapley Additive Explanations (SHAP) values for feature attribution. However, the field appears to struggle with embracing the current large language models (LLMs) and vision-language models (VLMs) revolution, which offers a significantly broader array of sophisticated tools and enhanced capabilities for medical AI applications. This technological gap represents both a challenge and an opportunity for advancing XAI in cardiovascular healthcare.
