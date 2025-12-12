@@ -3,7 +3,7 @@ title: "Dreams are more “predictable” than you think"
 collection: publications
 category: manuscripts
 permalink: dreamppl-frontsleep
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2025-8-01
 venue: 'Frontiers Sleep'
 paperurl: 'https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2025.1625185/full'
