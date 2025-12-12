@@ -1,14 +1,18 @@
 ---
-title: "Paper Title Number 1"
+title: "Dreams are more “predictable” than you think"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2025.1625185/full
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2025-8
+venue: 'Frontiers Sleep'
+paperurl: 'https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2025.1625185/full'
+citation: 'Bertolini L, Consoli S and Weeds J (2025) Dreams are more “predictable” than you think. Front. Sleep 4:1625185. doi: 10.3389/frsle.2025.1625185'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Introduction: A growing body of work has used machine learning and AI tools to analyse dream reports, and compare them to other textual content. Since these tools are usually trained on text from the web, researchers have speculated they might not be suited to model dreams reports, often labeled as “unusual” and “bizarre” content.
+
+Methods: We used a set of large language models (LLMs) to encode dream reports from DreamBank and Wikipedia. To estimate the ability of LLMs to model and predict textual reports we adopted perplexity, a measure based on entropy, formally, the exponentiated log-likelihood of a sequence. Intuitively, perplexity indicates how “surprising” a sequence of words is to a model.
+
+Results: In most models, perplexity scores for dream reports were significantly lower than those for Wikipedia articles. Moreover, we found that perplexity scores were significantly different in reports produced by male vs female participants, and between blind and normally sighted individuals. In one case, we found this difference to be significant between clinical and healthy subjects.
+
+Discussion: Dream reports were found to be generally easier to model and predict than Wikipedia articles. LLMs were also found to implicitly encode group differences previously observed in the literature based on gender, visual impairment, and clinical population.
