@@ -21,4 +21,3 @@ News
 	<li> Junary 2024: Our work <a href="https://aclanthology.org/2024.clpsych-1.7/"> <i>Automatic Annotation of Dream Report’s Emotional Content with Large Language Models</i></a> got accepted for publication at EACL 2024 <a href="https://clpsych.org/"> <i>Computational Linguistics and Clinical Psychology</i></a> workshop.</li>
 	<li> September 2023: I joined the European Commission Joint Research Centre (JRC) as a research fellow in AI for health.</li>
 	<li> May 2023: DReAMy has been updated to version 1.5 🥳! Check out the <a href="https://github.com/lorenzoscottb/DReAMy">Git repo</a> for Colab/notebook tutorials, and the <a href="https://twitter.com/DreamyLib/status/1652742704483188736">Twitter post</a> for a quick summary of the new features.</li>
- </ul>
