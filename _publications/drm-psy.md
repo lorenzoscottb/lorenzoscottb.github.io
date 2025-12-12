@@ -5,7 +5,7 @@ category: conferences
 permalink: drm-ps
 excerpt: ''
 date: 2024-04-14
-venue: 'Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021'
+venue: 'Proceedings of the 9th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2024)'
 paperurl: 'https://aclanthology.org/2024.clpsych-1.7/'
 citation: 'Lorenzo Bertolini, Valentina Elce, Adriana Michalak, Hanna-Sophia Widhoelzl, Giulio Bernardi, and Julie Weeds. 2024. Automatic Annotation of Dream Report’s Emotional Content with Large Language Models. In Proceedings of the 9th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2024), pages 92–107, St. Julians, Malta. Association for Computational Linguistics.'
 ---
