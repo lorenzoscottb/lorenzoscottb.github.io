@@ -24,27 +24,29 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Liks"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Italy"
+  employer         : "European Commission Joint Research Centre (JRC)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # URL 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.at/citations?hl=en&pli=1&user=axy-mJsAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
+  orcid            : "https://orcid.org/0000-0002-1709-9372"
+  semantic scholar : "https://www.semanticscholar.org/author/Lorenzo-Bertolini/2316946632"
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
+  linkedin         : "https://www.linkedin.com/in/lorenzo-bertolini/"
+
 
 
   # Repositories and software development
