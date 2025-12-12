@@ -23,7 +23,7 @@ repository               : "https://lorenzoscottb.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pht.png"
+  avatar           : "pht.jpg"
   name             : "Short bio and links"
   pronouns         : # example: "she/her"  
   bio              : "Research Fellow in AI for health"
