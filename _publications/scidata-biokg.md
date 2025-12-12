@@ -3,6 +3,7 @@ title: "An epidemiological knowledge graph extracted from the World Health Organ
 collection: publications
 category: manuscripts
 permalink: scidata-biokg
+excerpt:
 date: 2025-06-10
 venue: 'Scientific Data'
 paperurl: 'https://www.nature.com/articles/s41597-025-05276-2'
