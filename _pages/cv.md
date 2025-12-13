@@ -31,6 +31,7 @@ Skills
 * Python
 * AI/ML
   * LMMs
+  * Multimodality
   * Graph ML
   * xAI
 
