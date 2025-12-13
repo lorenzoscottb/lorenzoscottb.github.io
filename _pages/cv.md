@@ -30,7 +30,7 @@ Skills
 ======
 * Python
 * AI/ML
-  * LMMs
+  * LMMs - training, optimisation, evaluation
   * Multimodality
   * Graph ML
   * xAI
