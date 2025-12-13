@@ -5,7 +5,7 @@ category: manuscripts
 permalink: dreamppl-frontsleep
 excerpt: ''
 date: 2025-8-01
-venue: 'Frontiers Sleep'
+venue: 'Frontiers in Sleep'
 paperurl: 'https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2025.1625185/full'
 citation: 'Bertolini L, Consoli S and Weeds J (2025) Dreams are more “predictable” than you think. Front. Sleep 4:1625185. doi: 10.3389/frsle.2025.1625185'
 ---
