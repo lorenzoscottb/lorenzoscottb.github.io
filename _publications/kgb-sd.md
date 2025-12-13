@@ -7,7 +7,7 @@ excerpt: ''
 date: 2025-06-10
 venue: 'Scientific Data'
 paperurl: 'https://www.nature.com/articles/s41597-025-05276-2#citeas'
-citatio: 'Consoli, S., Coletti, P., Markov, P.V. et al. An epidemiological knowledge graph extracted from the World Health Organization’s Disease Outbreak News. Sci Data 12, 970 (2025). https://doi.org/10.1038/s41597-025-05276-2'
+citation: 'Consoli, S., Coletti, P., Markov, P.V. et al. An epidemiological knowledge graph extracted from the World Health Organization’s Disease Outbreak News. Sci Data 12, 970 (2025). https://doi.org/10.1038/s41597-025-05276-2'
 ---
 
 Open Access Work
