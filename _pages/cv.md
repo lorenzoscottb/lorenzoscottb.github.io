@@ -35,7 +35,7 @@ Skills
   * Graph ML
   * xAI
 
-Publications
+Publications (Curated Selection)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
