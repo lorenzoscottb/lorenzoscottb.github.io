@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Informatics, University of Sussex, 2022
+* M.S. in Cognitive Science - Language and Multimodal Interaction Track, University of Trento - Centro Interdipartimentale Mente e Cervello (CIMeC), 2018
+* B.S. in Experimental Psychology, Università degli Studi di Milano-Bicocca, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Fellow (Scientific Project Officer)
+  * Sep 2023 - Ongoing
+  * European Commission Joint Research Centre
+  * Contact reference for the Research deliverable of the ongoing Work Program 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral Researcher
+  * Nov 2022 - Aug 2023 
+  * University of Sussex
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* AI/ML
+  * LMMs
+  * Graph ML
+  * xAI
 
 Publications
 ======
@@ -59,6 +52,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
