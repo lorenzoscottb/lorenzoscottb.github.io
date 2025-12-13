@@ -40,7 +40,12 @@ Publications (Curated Selection)
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Softwear & Models
+======
+* [DreAMy](https://github.com/lorenzoscottb/DReAMy)
+* [Hugging Face](https://huggingface.co/lorenzoscottb)
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
