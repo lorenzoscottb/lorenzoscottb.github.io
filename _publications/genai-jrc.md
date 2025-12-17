@@ -2,7 +2,7 @@
 title: "Generative AI Outlook Report"
 collection: publications
 category: reports
-permalink: genai-jrc
+permalink: /publications/genai-jrc
 excerpt: ''
 date: 2025-06-13
 paperurl: 'https://publications.jrc.ec.europa.eu/repository/handle/JRC142598?'
