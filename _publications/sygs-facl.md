@@ -2,7 +2,7 @@
 title: "Representing Syntax and Composition with Geometric Transformations"
 collection: publications
 category: conferences
-permalink: sygs-facl
+permalink: /publications/sygs-facl
 excerpt: ''
 date: 2021-08-03
 venue: 'Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021'
