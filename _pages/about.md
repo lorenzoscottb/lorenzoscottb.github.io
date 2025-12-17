@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a Research Fellow (Scientific Project Officer) at the European Commission Joint Research Centre (JRC). My research focuses on the explainability and multimodality of AI models for healthcare. In particular, I am interested in integrating graph-based representations and biological domain data within LLMs, and using explainability and mechanistic interpretability to understand the behaviour of vision-language biomedical models and mitigate implicit biases that influence their diagnostic decision-making processes.
+I am a multidisciplinary researcher with a background in cognitive science, machine learning, and NLP. Currently, I am a Research Fellow (Scientific Project Officer) at the European Commission Joint Research Centre (JRC), in the digital health unit. My work focuses on explainability and multimodality. In particular, I am interested in integrating graph-based representations and biological domain knowledge within LLMs, and using explainability and mechanistic interpretability to understand the behaviour of multimodal biomedical models and mitigate implicit biases that influence their diagnostic decision-making processes
 
 Before joining the JRC, I was a postdoctoral researcher in the Artificial Intelligence Research Group at the University of Sussex, where I also earned my PhD in Informatics. My thesis examined how LLMs and other machine learning models learn to handle linguistic abilities such as compositionality, generalisation, and inference.
 
