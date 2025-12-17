@@ -2,7 +2,7 @@
 title: "Automatic Annotation of Dream Report’s Emotional Content with Large Language Models"
 collection: publications
 category: conferences
-permalink: drm-ps
+permalink: /publications/drm-ps
 excerpt: ''
 date: 2024-04-14
 venue: 'Proceedings of the 9th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2024)'
