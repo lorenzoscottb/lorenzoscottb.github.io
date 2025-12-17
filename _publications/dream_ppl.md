@@ -2,7 +2,7 @@
 title: "Dreams are more “predictable” than you think"
 collection: publications
 category: manuscripts
-permalink: dreamppl-frontsleep
+permalink: /publications/dreamppl-frontsleep
 excerpt: ''
 date: 2025-8-01
 venue: 'Frontiers in Sleep'
