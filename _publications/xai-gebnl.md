@@ -2,7 +2,7 @@
 title: "Strengths and Limitations of Word-Based Task Explainability in Vision Language Models: a Case Study on Biological Sex Biases in the Medical Domain"
 collection: publications
 category: conferences
-permalink: xai-gebnl
+permalink: /publications/xai-gebnl
 excerpt: ''
 date: 2025-07-31
 venue: 'Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP)'
