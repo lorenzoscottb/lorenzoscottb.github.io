@@ -2,7 +2,7 @@
 title: "Testing Large Language Models on Compositionality and Inference with Phrase-Level Adjective-Noun Entailment"
 collection: publications
 category: conferences
-permalink: com-clng
+permalink: /publications/com-clng
 excerpt: ''
 date: 2022-08-02
 venue: 'Proceedings of the 29th International Conference on Computational Linguistics'
