@@ -2,7 +2,7 @@
 title: "Conformal Risk Control for Pulmonary Nodule Detection"
 collection: publications
 category: conferences
-permalink: conformal-copa
+permalink: /publications/conformal-copa
 excerpt: ''
 date: 2025-06-06
 venue: 'Proceedings of the Fourteenth Symposium on Conformal and Probabilistic Prediction with Applications'
