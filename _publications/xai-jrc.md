@@ -2,7 +2,7 @@
 title: "Explainable AI in Cardiovascular Health"
 collection: publications
 category: reports
-permalink: genai-jrc
+permalink: /publications/genai-jrc
 excerpt: ''
 date: 2025-09-19
 paperurl: 'https://publications.jrc.ec.europa.eu/repository/handle/JRC143595'
