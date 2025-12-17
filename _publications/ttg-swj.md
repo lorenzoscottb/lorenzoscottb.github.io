@@ -2,7 +2,7 @@
 title: "On General and Biomedical Text-to-Graph Large Language Models"
 collection: publications
 category: manuscripts
-permalink: ttg-swj
+permalink: /publications/ttg-swj
 excerpt: ''
 date: 2025-12-12
 venue: 'Semantic Web: – Interoperability, Usability, Applicability'
