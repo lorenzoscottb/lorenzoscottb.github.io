@@ -2,7 +2,7 @@
 title: "An epidemiological knowledge graph extracted from the World Health Organization’s Disease Outbreak News"
 collection: publications
 category: manuscripts
-permalink: kgb-sd
+permalink: /publications/kgb-sd
 excerpt: ''
 date: 2025-06-10
 venue: 'Scientific Data'
