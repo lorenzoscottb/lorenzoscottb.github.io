@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Personal Page"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Lorenzo Bertolini"
 title_separator          : "-"
 name                     : &name "Lorenzo Bertolini"
 description              : &description "Lorenzo Bertolini's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
