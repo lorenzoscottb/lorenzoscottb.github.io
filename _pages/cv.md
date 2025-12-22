@@ -9,22 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* Research Fellow (Scientific Project Officer)
+  * Sep 2023 - Ongoing
+  * European Commission, Joint Research Centre (JRC)
+  * Contact reference for the Research deliverable of the ongoing Work Program 
+
+* Postdoctoral Researcher in NLP
+  * Nov 2022 - Aug 2023 
+  * University of Sussex, Department of Informatics
+  * AI Research Group
+
 Education
 ======
 * Ph.D in Informatics, University of Sussex, 2022, [Thesis](https://sussex.figshare.com/articles/thesis/Assessing_compositionality_with_phrase-level_adjective-noun_entailment/23496527?file=41204879)
 * M.S. in Cognitive Science - Language and Multimodal Interaction Track, University of Trento - Centro Interdipartimentale Mente e Cervello (CIMeC), 2018
 * B.S. in Experimental Psychology, Università degli Studi di Milano-Bicocca, 2016
-
-Work experience
-======
-* Research Fellow (Scientific Project Officer)
-  * Sep 2023 - Ongoing
-  * European Commission Joint Research Centre
-  * Contact reference for the Research deliverable of the ongoing Work Program 
-
-* Postdoctoral Researcher
-  * Nov 2022 - Aug 2023 
-  * University of Sussex
 
 Skills
 ======
