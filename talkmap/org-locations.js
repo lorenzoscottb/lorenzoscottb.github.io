@@ -15,6 +15,11 @@ var addressPoints = [
     114.1796935
   ],
   [
+    "Testing Language Models on Compositionality<br />MilaNLP Weekly Seminar; Bocconi University",
+    45.4498836,
+    9.1892636
+  ],
+  [
     "A Tale of Compositionality: from Humans to Machines<br />Sussex Data Science Society; University of Sussex",
     50.8674377,
     -0.0877259
