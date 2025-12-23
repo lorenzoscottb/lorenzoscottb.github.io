@@ -1,6 +1,6 @@
 ---
 title: "Catching Dreams: Multimodal xAI Meets the Dreaming Mind"
-collection: talks
+collection: presentations
 type: "Poster presentation"
 permalink: /talks/xaieeg-dxesy
 venue: "DreamxEngineering Symposium"
