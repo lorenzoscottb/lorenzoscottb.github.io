@@ -13,5 +13,10 @@ var addressPoints = [
     "Field of dreams: applying NLP to automatise dream content analysis<br />CBS Research Seminar; The Hong Kong Polytechnic University",
     22.3044867,
     114.1796935
+  ],
+  [
+    "A Tale of Compositionality: from Humans to Machines<br />Sussex Data Science Society; University of Sussex",
+    50.8674377,
+    -0.0877259
   ]
 ];
