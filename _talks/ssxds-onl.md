@@ -1,7 +1,7 @@
 ---
 title: "Transformers & Hugging Faces: Theory and Applications of NLP’s Most Notorious Architecture"
 collection: talks
-type: "Invited Talk"
+type: "Invited talk"
 permalink: /talks/ssxds-onl
 venue: "Sussex Data Science Meet Up"
 date: 2023-03-25
