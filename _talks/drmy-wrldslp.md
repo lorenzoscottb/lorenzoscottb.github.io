@@ -1,6 +1,6 @@
 ---
 title: "DReAMy: a library for the automatic analysis and annotation of dream reports with multilingual large language models"
-collection: presentation
+collection: presentations
 type: "Oral presentation"
 permalink: /talks/2014-02-01-talk-2
 venue: "World Sleep Congress"
