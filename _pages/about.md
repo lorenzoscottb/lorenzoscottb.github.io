@@ -14,6 +14,7 @@ Occasionally, I work on problems related to dream analysis, such as adopting LLM
 
 News
 ======
+-  March 2026: Our work [Disaster Storylines and Knowledge Graphs from Global News with Large Language Models and Retrieval-Augmented Generation](https://www.nature.com/articles/s41597-026-07036-2) has been published in Scientific Data. You can play with our platform [here](https://huggingface.co/spaces/roncmic/crisesStorylinesRAG).
 -  January 2026: I will be at the [MIT DreemXEngineering Symposium](https://dxe.framer.website/#posters) to present a work on multimodal xAI for dream detection in EEG signal.
 -  September 2025: We will be presenting 4 full papers at the 11th [International Conference on Machine Learning, Optimization, and Data Science](https://lod2025.icas.events/wp-content/uploads/sites/32/2025/09/LOD-ACAIN-2025-Schedule.pdf)(LOD 2025) with subject varying from text-to-graph to dream analysis (see publication page for titles).
 - July 2025: We will present our paper on <a href="https://aclanthology.org/2025.gebnlp-1.12/"> <i>Task-level XAI for biological sex biases in the medical domain</i></a> at the Gender Bias in NLP (GeBNLP) workshop at ACL 2025.
