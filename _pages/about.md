@@ -14,6 +14,8 @@ Occasionally, I work on problems related to dream analysis, such as adopting LLM
 
 Updates
 ======
+- October 2026: I will be at [BBCC 26](https://www.bbcc-meetings.it/) to present our preprints on Evo 2.
+- September 2026: Our preprint [Evo 2 as a classification machine: evidence from in-context learning and mechanistic interpretability](https://www.biorxiv.org/content/10.64898/2026.09.30.755330v1) is out.
 - July 2026: Our preprint [Evo 2's Perception of Single Nucleotide Substitutions in the Genes of Two Plant Model Organisms](https://www.biorxiv.org/content/10.64898/2026.07.01.729829v1.abstract) is out.
 - May 2026: Our paper [PreDA: Prefix-Based Dream Reports Annotation with Generative Language Models](https://link.springer.com/chapter/10.1007/978-3-032-21477-5_13) has been published, and the [models](https://huggingface.co/collections/DReAMy-lib/preda) have been released.
 - April 2026: We released a technical report on [Artificial Intelligence in Cardiovascular Care
